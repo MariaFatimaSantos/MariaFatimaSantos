@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋🏻 Hello devs! 👩🏻‍💻
 
 <!--
 **MariaFatimaSantos/MariaFatimaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Maria Fatima and I'm from Rome, Italy. This is my coding space where you can find the projects that I've worked on during my studies, work and more. I'm a junior dev that loves learning how things work and I could stay days and nights thinking about how to solve coding problems or how to improve them. By sharing my projects I want to progress through experience and your feedbacks. There's still so much to learn, so here we go! 💫
+
+
+
+
